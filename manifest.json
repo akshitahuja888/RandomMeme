@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Random Funny Memes",
+    "version": "1.0.0",
+    "description": "Funny Memes anytime!",
+    "icons": {
+        "16": "icon16.jpeg",
+        "48": "icon48.jpeg",
+        "128": "icons128.jpeg"
+    },
+    "browser_action": {
+        "default_icon": {
+            "16": "icon16.jpeg",
+            "48": "icon48.jpeg",
+            "128": "icons128.jpeg"
+        },
+        "default_popup": "popup.html"
+    }
+}
