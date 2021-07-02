@@ -4,15 +4,15 @@
     "version": "1.0.0",
     "description": "Funny Memes anytime!",
     "icons": {
-        "16": "icon16.jpeg",
-        "48": "icon48.jpeg",
-        "128": "icons128.jpeg"
+        "16": "Gorilla-icon16.png",
+        "48": "Gorilla-icon48.png",
+        "128": "Gorilla-icon128.png"
     },
     "browser_action": {
         "default_icon": {
-            "16": "icon16.jpeg",
-            "48": "icon48.jpeg",
-            "128": "icons128.jpeg"
+            "16": "Gorilla-icon16.png",
+            "48": "Gorilla-icon48.png",
+            "128": "Gorilla-icon128.png"
         },
         "default_popup": "popup.html"
     }
